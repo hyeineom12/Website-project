@@ -8,5 +8,7 @@
 ## 🌐 기본 HTML 템플릿 구성
 - **간단한 UI 구성**
 
+---
 
-url: hyeineoom.pythonanywhere.com
+## 🧾 Mywebsite link
+🔗 https://hyeineoom.pythonanywhere.com
